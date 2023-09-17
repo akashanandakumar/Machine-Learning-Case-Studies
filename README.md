@@ -1,1 +1,1 @@
-# Machine-Learning-Case-Studies
+Semester-1 : ML team assignments
